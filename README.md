@@ -1,2 +1,2 @@
 # Printable-Privew-Form
-Multipurpose Form with a printable preview
+Multipurpose Registration Form with a printable preview
